@@ -20,7 +20,7 @@ You’ve been assigned to stop the breach in progress and **hunt down evidence o
 
 - **Hunt Title / Case ID:** *The Great Admin Heist*
 - **Date Range Investigated:** 07/05/2025 (30-day back review)
-- **Analyst:** *Mohammed A*
+- **Analyst:** *Felix*
 - **Environment:** Microsoft Azure Threat-Hunting Lab
 - **Platforms Used:** Microsoft Defender for Endpoint (MDE), Microsoft Sentinel
 - **Query Language:** Kusto Query Language (KQL)
